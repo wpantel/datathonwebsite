@@ -6,10 +6,10 @@ Predict median AQI in U.S. counties accurately based on socioeconomic factors.
 
 ## Model Performance
 **Accuracy**
-91.01%: Within 12 AQI points
+91.01%: Within 12 AQI points\n
 85.71% Within 10 AQI points
 
 ## Contributors
-William Pantel
-Ian Stansberry
+William Pantel\n
+Ian Stansberry\n
 Dominic Platt
